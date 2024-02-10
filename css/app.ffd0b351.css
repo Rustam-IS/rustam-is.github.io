@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0;overflow:hidden}#app,body,html{width:100%;height:100%}#app{display:flex}#field{background-color:#1e1e1e}@media (min-height:100vw){#app{flex-direction:column}#editor,#field{height:50vh;width:100vw}}@media (min-width:100vh){#app{flex-direction:row}#editor,#field{height:100vh;width:50vw}}
